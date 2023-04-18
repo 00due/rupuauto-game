@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"displayType":0,"effectName":"punch","flashTimings":[],"name":"Punch","offsetX":0,"offsetY":0,"rotation":{"x":0,"y":0,"z":0},"scale":100,"soundTimings":[{"frame":0,"se":{"name":"ALPH_nosound","pan":0,"pitch":100,"volume":0}}],"speed":100,"timings":[]},
+{"id":2,"displayType":1,"effectName":"enemyGAttack","flashTimings":[],"name":"generalAttack","offsetX":30,"offsetY":20,"rotation":{"x":0,"y":0,"z":0},"scale":50,"soundTimings":[{"frame":0,"se":{"name":"ALPH_battAttack","pan":0,"pitch":100,"volume":100}}],"speed":150,"timings":[]},
+{"id":3,"displayType":0,"effectName":"punch","flashTimings":[],"name":"PunchSound","offsetX":0,"offsetY":0,"rotation":{"x":0,"y":0,"z":0},"scale":100,"soundTimings":[{"frame":0,"se":{"name":"ALPH_battpunch","pan":0,"pitch":100,"volume":100}}],"speed":100,"timings":[]},
+{"id":4,"displayType":0,"effectName":"","flashTimings":[],"name":"","offsetX":0,"offsetY":0,"rotation":{"x":0,"y":0,"z":0},"scale":100,"soundTimings":[],"speed":100},
+{"id":5,"displayType":0,"effectName":"","flashTimings":[],"name":"","offsetX":0,"offsetY":0,"rotation":{"x":0,"y":0,"z":0},"scale":100,"soundTimings":[],"speed":100},
+{"id":6,"displayType":0,"effectName":"","flashTimings":[],"name":"","offsetX":0,"offsetY":0,"rotation":{"x":0,"y":0,"z":0},"scale":100,"soundTimings":[],"speed":100},
+{"id":7,"displayType":0,"effectName":"","flashTimings":[],"name":"","offsetX":0,"offsetY":0,"rotation":{"x":0,"y":0,"z":0},"scale":100,"soundTimings":[],"speed":100},
+{"id":8,"displayType":0,"effectName":"","flashTimings":[],"name":"","offsetX":0,"offsetY":0,"rotation":{"x":0,"y":0,"z":0},"scale":100,"soundTimings":[],"speed":100},
+{"id":9,"displayType":0,"effectName":"","flashTimings":[],"name":"","offsetX":0,"offsetY":0,"rotation":{"x":0,"y":0,"z":0},"scale":100,"soundTimings":[],"speed":100},
+{"id":10,"displayType":0,"effectName":"","flashTimings":[],"name":"","offsetX":0,"offsetY":0,"rotation":{"x":0,"y":0,"z":0},"scale":100,"soundTimings":[],"speed":100}
+]

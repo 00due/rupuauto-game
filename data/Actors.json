@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Alph","classId":1,"equips":[],"faceIndex":0,"faceName":"","traits":[{"code":35,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":30,"name":"Alph","nickname":"","note":"","profile":"It's you. \nYou have \\V[41] G"},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"friends","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"kirkfaces","traits":[],"initialLevel":1,"maxLevel":1,"name":"Kirk","nickname":"","note":"","profile":"Your friend, Kirk."},
+{"id":3,"battlerName":"","characterIndex":4,"characterName":"Walter","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"a","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":1,"characterName":"hw_csprites","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"hwfaces","traits":[],"initialLevel":1,"maxLevel":99,"name":"Fukia","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":2,"characterName":"hw_csprites","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"hwfaces","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mugu","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"hw_csprites","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"hwfaces","traits":[],"initialLevel":1,"maxLevel":99,"name":"Tar","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":3,"characterName":"others","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"support","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"support","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
