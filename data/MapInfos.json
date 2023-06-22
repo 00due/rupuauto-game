@@ -166,5 +166,5 @@ null,
 {"id":164,"expanded":true,"name":"gameStart","order":23,"parentId":35,"scrollX":671,"scrollY":470.6666666666667},
 {"id":165,"expanded":true,"name":"gameStart2","order":24,"parentId":164,"scrollX":851.4545454545455,"scrollY":944.7272727272727},
 {"id":166,"expanded":false,"name":"gameStart3","order":25,"parentId":165,"scrollX":764.4,"scrollY":1472},
-{"id":167,"expanded":false,"name":"rupuauto1","order":1,"parentId":0,"scrollX":931.8,"scrollY":558}
+{"id":167,"expanded":false,"name":"rupuauto1","order":1,"parentId":0,"scrollX":517.6666666666666,"scrollY":310}
 ]
