@@ -129,8 +129,9 @@ Game_Action.prototype.makeDamageValue = function(target, critical) {
 };
 
 /*##############
-  #JÄRJESTELMÄ!#
+  #JÄRJESTELMÄ!#           Poistettu Rupuauton yhteensopivuussyistä Github pagesin kanssa.
   #############*/
+/*
 let windows = false;
 (function() {
     var parameters = PluginManager.parameters('ODUE_scripts');
@@ -206,7 +207,7 @@ if (fs.existsSync(csettPath)) {
     var fs = require('fs');
     fs.writeFileSync(csettPath, json, 'utf8');
 };
-
+*/
 
 
 
